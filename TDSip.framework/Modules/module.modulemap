@@ -1,0 +1,6 @@
+framework module TDSip {
+  umbrella header "TDSip.h"
+
+  export *
+  module * { export * }
+}
